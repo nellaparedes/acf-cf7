@@ -259,11 +259,11 @@ class acf_field_cf7 extends acf_field {
 	function input_admin_head() {
 	?>
 		<script>
-			jQuery(document).ready(function($) { 
+			/*jQuery(document).ready(function($) { 
 				$(".cf7-select").select2({
 					width: '100%'
 				}); 
-			});
+			});*/
 		</script>
 	<?php	
 	}
